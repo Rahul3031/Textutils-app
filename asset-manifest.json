@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rahul3031/textUtils-react-app/static/css/main.e0f826ba.css",
+    "main.js": "/Rahul3031/textUtils-react-app/static/js/main.be3b275e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Rahul3031/textUtils-react-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Rahul3031/textUtils-react-app/index.html",
+    "main.e0f826ba.css.map": "/Rahul3031/textUtils-react-app/static/css/main.e0f826ba.css.map",
+    "main.be3b275e.js.map": "/Rahul3031/textUtils-react-app/static/js/main.be3b275e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Rahul3031/textUtils-react-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0f826ba.css",
+    "static/js/main.be3b275e.js"
+  ]
+}
